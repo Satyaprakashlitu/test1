@@ -14,6 +14,7 @@ public class C extends B implements AABB{
 	public static void main(String[] args) {
 		C c=new C();
 		c.sum(1, 2);
+System.out.println("hello");
 	}
 	
 }
