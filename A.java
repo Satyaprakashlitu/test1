@@ -17,4 +17,4 @@ public class C extends B implements AABB{
 System.out.println("hello");
 	}
 dhjfkdsh	
-}
+}xgg
