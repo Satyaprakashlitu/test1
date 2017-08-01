@@ -16,5 +16,5 @@ public class C extends B implements AABB{
 		c.sum(1, 2);
 System.out.println("hello");
 	}
-	
+dhjfkdsh	
 }
